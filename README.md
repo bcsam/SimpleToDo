@@ -4,7 +4,7 @@
 
 Submitted by: Brent Samuels
 
-Time spent: 2.5 hour(s) spent in total
+Time spent: 4 hour(s) spent in total
 
 ## User Stories
 
